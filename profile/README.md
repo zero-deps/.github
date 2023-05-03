@@ -13,7 +13,7 @@
 ## build
 * sbt-git - use git-describe as version for project
 * shmishleniy/sbt-deploy-ssh - deploy package via ssh to server
-* xerial / sbt-pack - create package for application
+* xerial/sbt-pack - create package for application
 
 ## tools
 * lxd - setup cluster on single node
