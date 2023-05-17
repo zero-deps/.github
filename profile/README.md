@@ -6,14 +6,15 @@
 
 ## additional
 * purescript-protobuf - protobuf for purescript
+* [tellnobody1/tx](https://github.com/tellnobody1/tx/) - local node database
 * zio-nio - forked nio version which works with frontier
 * zio-zmx - zmx migrated for zio 2
-* zio/zio-json - json for zio
+* [zio/zio-json](https://github.com/zio/zio-json) - json for zio
 
 ## build
 * sbt-git - use git-describe as version for project
-* shmishleniy/sbt-deploy-ssh - deploy package via ssh to server
-* xerial/sbt-pack - create package for application
+* [shmishleniy/sbt-deploy-ssh](https://github.com/shmishleniy/sbt-deploy-ssh) - deploy package via ssh to server
+* [xerial/sbt-pack](https://github.com/xerial/sbt-pack) - create package for application
 
 ## tools
 * lxd - setup cluster on single node
