@@ -1,5 +1,4 @@
 ## main
-* frontier - http/websocket server for zio
 * health - monitoring server and client for scala (production-ready)
 * kvs - database for zio (production-ready)
 * proto - protobuf serialization for scala (production-ready)
@@ -24,5 +23,6 @@
 ## archived
 * eq - strictEquality for scala 2
 * ext - utility functions for scala
+* frontier - http/websocket server for zio
 * jmh-json - comparison of json libraries
 * purs - is merged to proto
