@@ -5,7 +5,7 @@
 
 ## additional
 * purescript-protobuf - protobuf for purescript (production-ready)
-* [tellnobody1/tx](https://github.com/tellnobody1/tx/) - local node database
+* db - local node database with transactions
 * zio-zmx - zmx migrated for zio 2
 * [zio/zio-json](https://github.com/zio/zio-json) - json for zio
 
